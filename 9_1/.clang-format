@@ -1,4 +1,4 @@
 BasedOnStyle: Microsoft
 IndentWidth: 4
 PointerAlignment: Left
-AccessModifierOffset: -4
+AccessModifierOffset: -2
